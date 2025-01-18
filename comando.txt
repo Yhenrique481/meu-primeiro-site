@@ -1,0 +1,7 @@
+git add . <==== 
+
+git commit -m "mensagem"  <====  Adiciona uma mensagem ao Stage que sera enviado
+
+git push <=== envia os dados para o github.
+
+git pull <=== trazer os dados do repositorio para usa maquina
